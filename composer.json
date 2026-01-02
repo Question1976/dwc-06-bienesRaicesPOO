@@ -1,0 +1,19 @@
+{
+    "name": "salva/bienesraices-poo",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Salvador Belloso Santos",
+            "email": "sbs76carmona@gmx.es"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.11"
+    }
+}
